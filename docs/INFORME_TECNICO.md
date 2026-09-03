@@ -3,7 +3,11 @@
 
 **Asignatura:** Ingeniería de Soluciones con IA (ISY0101)
 **Evaluación Parcial N.º 1:** Encargo con Presentación
-**Equipo:** (Nombre integrante 1 - RUT) / (Nombre integrante 2 - RUT)
+**Equipo:**
+- Renato Espina - 21.801.161-6
+- Javier García - 21.655.097-8
+- Benjamín Rojas - 21.796.829-1
+
 **Fecha:** Septiembre de 2026
 
 ---
@@ -190,10 +194,13 @@ limitaciones del modelo.
 
 ### Reflexiones individuales (a completar por cada integrante sin apoyo de IA)
 
-> **Reflexión integrante 1:**
+> **Reflexión - Renato Espina (21.801.161-6):**
 > (Redactar aquí, SIN uso de IA, sobre el aprendizaje y contribución personal.)
 
-> **Reflexión integrante 2:**
+> **Reflexión - Javier García (21.655.097-8):**
+> (Redactar aquí, SIN uso de IA, sobre el aprendizaje y contribución personal.)
+
+> **Reflexión - Benjamín Rojas (21.796.829-1):**
 > (Redactar aquí, SIN uso de IA, sobre el aprendizaje y contribución personal.)
 
 ---
