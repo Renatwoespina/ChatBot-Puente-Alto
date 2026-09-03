@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datos generados en tiempo de ejecución
+data/chroma_db/
+data/solicitudes_generadas/
+data/citas.json
+data/tramites.json
+
+# Pruebas / evidencia generada
+pruebas/evidencia_*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+Thumbs.db
+.DS_Store

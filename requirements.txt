@@ -1,0 +1,17 @@
+# Framework de agentes y RAG
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-openai==0.1.23
+langchain-core==0.2.40
+
+# Almacén vectorial
+chromadb==0.5.5
+
+# Cargadores de documentos
+pypdf==4.3.1
+
+# Búsqueda web externa
+duckduckgo-search==6.3.7
+
+# Utilidades de entorno y configuración
+python-dotenv==1.0.1
