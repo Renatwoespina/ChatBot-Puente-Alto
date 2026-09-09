@@ -15,3 +15,9 @@ duckduckgo-search==6.3.7
 
 # Utilidades de entorno y configuración
 python-dotenv==1.0.1
+
+# ------- Para el notebook rápido (Colab/VSCode con Groq, sin API key OpenAI) -------
+groq
+langchain-groq
+langchain-huggingface
+sentence-transformers
