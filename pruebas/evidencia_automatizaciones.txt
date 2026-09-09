@@ -1,0 +1,15 @@
+======================================================================
+EVIDENCIA DE PRUEBAS - HERRAMIENTAS DE AUTOMATIZACIÓN
+Municipalidad de Puente Alto
+======================================================================
+[AGENDAR CITA]
+Cita agendada correctamente. Folio: CITA-0001. Trámite: Certificado de Nacimiento para Ana Pérez el 2025-06-10 a las 10:30.
+
+[CONSULTAR ESTADO]
+Trámite PA-2025-0002 (Permiso de Circulación) del solicitante Luis Gómez: estado actual = Aprobado. Oficina responsable: Tesorería.
+
+[CONSULTAR ESTADO (folio inexistente)]
+No se encontró un trámite con el folio 'PA-0000'. Verifica el folio o contacta a la mesa de ayuda municipal.
+
+[GENERAR SOLICITUD]
+Solicitud generada correctamente y guardada en data\solicitudes_generadas\solicitud_Permiso_de_Circulación_20260902_164241.txt. Puedes descargarla desde este archivo y presentarla en la oficina municipal.

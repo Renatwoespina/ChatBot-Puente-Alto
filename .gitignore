@@ -14,8 +14,7 @@ data/solicitudes_generadas/
 data/citas.json
 data/tramites.json
 
-# Pruebas / evidencia generada
-pruebas/evidencia_*.txt
+# Pruebas automatizadas (se conserva la evidencia de pruebas para la entrega)
 
 # IDE
 .vscode/
